@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24px" height="24px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g><path style="opacity:0.895" fill="#fefefe" d="M 0.5,-0.5 C 7.83333,-0.5 15.1667,-0.5 22.5,-0.5C 22.5,0.166667 22.8333,0.5 23.5,0.5C 23.5,7.83333 23.5,15.1667 23.5,22.5C 22.8333,22.5 22.5,22.8333 22.5,23.5C 15.1667,23.5 7.83333,23.5 0.5,23.5C 0.5,22.8333 0.166667,22.5 -0.5,22.5C -0.5,15.1667 -0.5,7.83333 -0.5,0.5C 0.166667,0.5 0.5,0.166667 0.5,-0.5 Z M 6.5,8.5 C 6.55999,7.95691 6.89333,7.62358 7.5,7.5C 8.83333,8.5 10.1667,9.5 11.5,10.5C 17.5244,6.51623 17.8578,7.01623 12.5,12C 16.5139,16.8163 16.1805,17.3163 11.5,13.5C 6.81947,17.3163 6.48614,16.8163 10.5,12C 9.29493,10.6244 7.9616,9.45773 6.5,8.5 Z"/></g>
-</svg>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg fill="#a5ce3a" width="800px" height="800px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier"> <title>cancel</title> <path d="M10.771 8.518c-1.144 0.215-2.83 2.171-2.086 2.915l4.573 4.571-4.573 4.571c-0.915 0.915 1.829 3.656 2.744 2.742l4.573-4.571 4.573 4.571c0.915 0.915 3.658-1.829 2.744-2.742l-4.573-4.571 4.573-4.571c0.915-0.915-1.829-3.656-2.744-2.742l-4.573 4.571-4.573-4.571c-0.173-0.171-0.394-0.223-0.657-0.173v0zM16 1c-8.285 0-15 6.716-15 15s6.715 15 15 15 15-6.716 15-15-6.715-15-15-15zM16 4.75c6.213 0 11.25 5.037 11.25 11.25s-5.037 11.25-11.25 11.25-11.25-5.037-11.25-11.25c0.001-6.213 5.037-11.25 11.25-11.25z"/> </g>
+</svg>

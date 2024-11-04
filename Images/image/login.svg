@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24px" height="24px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g><path style="opacity:0.759" fill="#fefefe" d="M 23.5,0.5 C 23.5,7.83333 23.5,15.1667 23.5,22.5C 18.5,22.5 13.5,22.5 8.5,22.5C 8.5,21.1667 8.5,19.8333 8.5,18.5C 12.1667,18.5 15.8333,18.5 19.5,18.5C 19.5,13.8333 19.5,9.16667 19.5,4.5C 15.8333,4.5 12.1667,4.5 8.5,4.5C 8.5,3.16667 8.5,1.83333 8.5,0.5C 13.5,0.5 18.5,0.5 23.5,0.5 Z"/></g>
-<g><path style="opacity:0.744" fill="#fefefe" d="M -0.5,13.5 C -0.5,12.1667 -0.5,10.8333 -0.5,9.5C 3.5,9.5 7.5,9.5 11.5,9.5C 11.3505,8.44802 11.5172,7.44802 12,6.5C 14.1584,7.82586 15.9918,9.49252 17.5,11.5C 15.9918,13.5075 14.1584,15.1741 12,16.5C 11.5172,15.552 11.3505,14.552 11.5,13.5C 7.5,13.5 3.5,13.5 -0.5,13.5 Z"/></g>
-</svg>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg height="800px" width="800px" version="1.1" id="_x32_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000">
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier"> <style type="text/css"> .st0{fill:#a5ce3a;} </style> <g> <polygon class="st0" points="237.61,331.547 271.554,365.5 347.11,289.946 381.054,256 347.11,222.054 271.554,146.5 237.61,180.453 289.164,232 0,232 0,280 289.164,280 "/> <polygon class="st0" points="464,0 416,0 192,0 144,0 96,0 96,48 96,80 96,160 144,160 160,160 160,64 448,64 448,448 160,448 160,352 144,352 96,352 96,432 96,464 96,512 144,512 192,512 416,512 464,512 512,512 512,464 512,416 512,96 512,48 512,0 "/> </g> </g>
+</svg>

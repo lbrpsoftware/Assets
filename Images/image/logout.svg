@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24px" height="24px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g><path style="opacity:0.759" fill="#fefefe" d="M 23.5,0.5 C 23.5,7.83333 23.5,15.1667 23.5,22.5C 18.5,22.5 13.5,22.5 8.5,22.5C 8.5,21.1667 8.5,19.8333 8.5,18.5C 12.1667,18.5 15.8333,18.5 19.5,18.5C 19.5,13.8333 19.5,9.16667 19.5,4.5C 15.8333,4.5 12.1667,4.5 8.5,4.5C 8.5,3.16667 8.5,1.83333 8.5,0.5C 13.5,0.5 18.5,0.5 23.5,0.5 Z"/></g>
-<g><path style="opacity:0.696" fill="#fefefe" d="M -0.5,12.5 C -0.5,11.8333 -0.5,11.1667 -0.5,10.5C 1.4714,9.17688 3.4714,7.84355 5.5,6.5C 6.38568,7.32496 6.71901,8.32496 6.5,9.5C 10.1667,9.5 13.8333,9.5 17.5,9.5C 17.5,10.8333 17.5,12.1667 17.5,13.5C 13.8333,13.5 10.1667,13.5 6.5,13.5C 6.71901,14.675 6.38568,15.675 5.5,16.5C 3.4714,15.1565 1.4714,13.8231 -0.5,12.5 Z"/></g>
-</svg>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#a5ce3a">
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier"> <g> <path fill="none" d="M0 0h24v24H0z"/> <path d="M5 22a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v3h-2V4H6v16h12v-2h2v3a1 1 0 0 1-1 1H5zm13-6v-3h-7v-2h7V8l5 4-5 4z"/> </g> </g>
+</svg>
