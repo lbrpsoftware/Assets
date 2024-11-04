@@ -1,18 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{fill:none;stroke:#FFFFFF;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-</style>
-<g id="Layer_1">
-</g>
-<g id="Layer_2">
-	<g>
-		<path class="st0" d="M458.94,230.05L266.16,47.55c-5.7-5.4-14.63-5.4-20.33,0L53.06,230.05c-9.71,9.19-3.2,25.52,10.16,25.52
-			h50.97v200.61c0,6.81,5.52,12.32,12.32,12.32h62.13c6.81,0,12.32-5.52,12.32-12.32V334.35c0-6.81,5.52-12.32,12.32-12.32h85.41
-			c6.81,0,12.32,5.52,12.32,12.32v121.83c0,6.81,5.52,12.32,12.32,12.32h62.13c6.81,0,12.32-5.52,12.32-12.32V255.57h50.97
-			C462.15,255.57,468.65,239.24,458.94,230.05z"/>
-	</g>
-</g>
-</svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier"> <path fill-rule="evenodd" clip-rule="evenodd" d="M21.4498 10.275L11.9998 3.1875L2.5498 10.275L2.9998 11.625H3.7498V20.25H20.2498V11.625H20.9998L21.4498 10.275ZM5.2498 18.75V10.125L11.9998 5.0625L18.7498 10.125V18.75H14.9999V14.3333L14.2499 13.5833H9.74988L8.99988 14.3333V18.75H5.2498ZM10.4999 18.75H13.4999V15.0833H10.4999V18.75Z" fill="#a5ce39"/> </g>
+</svg>
