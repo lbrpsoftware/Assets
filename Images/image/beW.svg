@@ -51,10 +51,10 @@
      cy="133.90921"
      cx="24.673832"
      id="path4138"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:color;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.585;stroke-linecap:butt;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:color;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.585;stroke-linecap:butt;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      inkscape:highlight-color="#aaaa04" />
   <path
      id="path4144"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 40.164062 11.994141 L 40.164062 141.21289 C 90.30389 159.23429 108.38492 132.496 117.4043 120.85742 C 124.41495 139.31526 152.3711 162.57416 190.82617 137.39453 L 184.4668 122.85547 C 173.92401 131.05029 141.30281 136.98967 137.39453 106.86328 L 193.77734 106.86328 C 196.9843 42.51146 134.35565 41.458482 118.67578 79.964844 C 109.09412 61.252758 94.632858 48.436847 61.972656 57.611328 L 61.972656 11.994141 L 40.164062 11.994141 z M 153.93359 70.664062 C 162.84987 70.813104 171.76562 78.000363 171.76562 91.779297 L 136.10156 91.779297 C 136.10156 77.404196 145.01732 70.515021 153.93359 70.664062 z M 77.146484 73.25 C 113.11188 73.88365 106.73318 141.67432 61.972656 127.94531 L 61.972656 76.330078 C 67.674021 74.106892 72.729682 73.172183 77.146484 73.25 z " />
 </svg>
