@@ -28,8 +28,8 @@
      inkscape:cy="85.70812"
      inkscape:window-width="2036"
      inkscape:window-height="1212"
-     inkscape:window-x="3412"
-     inkscape:window-y="123"
+     inkscape:window-x="2802"
+     inkscape:window-y="66"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <metadata
@@ -55,14 +55,6 @@
      inkscape:highlight-color="#aaaa04" />
   <path
      id="path4144"
-     d="m 40.164526,141.21193 0,-129.217094 21.808792,0 0,45.616724 c 32.660266,-9.174499 47.121182,3.64189 56.702862,22.354012 15.67989,-38.506438 78.30776,-37.454444 75.1008,26.897508 l -56.38159,0 c 3.90828,30.12645 36.52784,24.18796 47.07065,15.99312 l 6.36089,14.53919 c -38.45515,25.17967 -66.41226,1.91955 -73.42293,-16.53833 -9.0194,11.6386 -27.099546,38.37631 -77.239474,20.35487 z"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-  <path
-     id="path4146"
-     d="m 61.973318,76.330773 c 52.126862,-20.32631 50.257522,67.029197 0,51.614147 z"
-     style="fill:#f9e819;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-dasharray:none" />
-  <path
-     id="path4150"
-     d="m 136.10116,91.778668 c 0,-28.750231 35.66513,-27.557895 35.66513,0 z"
-     style="fill:#e2141a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.00000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none" />
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 40.164062 11.994141 L 40.164062 141.21289 C 90.30389 159.23429 108.38492 132.496 117.4043 120.85742 C 124.41495 139.31526 152.3711 162.57416 190.82617 137.39453 L 184.4668 122.85547 C 173.92401 131.05029 141.30281 136.98967 137.39453 106.86328 L 193.77734 106.86328 C 196.9843 42.51146 134.35565 41.458482 118.67578 79.964844 C 109.09412 61.252758 94.632858 48.436847 61.972656 57.611328 L 61.972656 11.994141 L 40.164062 11.994141 z M 153.93359 70.664062 C 162.84987 70.813104 171.76562 78.000363 171.76562 91.779297 L 136.10156 91.779297 C 136.10156 77.404196 145.01732 70.515021 153.93359 70.664062 z M 77.146484 73.25 C 113.11188 73.88365 106.73318 141.67432 61.972656 127.94531 L 61.972656 76.330078 C 67.674021 74.106892 72.729682 73.172183 77.146484 73.25 z " />
 </svg>
