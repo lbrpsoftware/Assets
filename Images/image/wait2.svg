@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 100 100"
+   preserveAspectRatio="xMidYMid"
+   width="200"
+   height="200"
+   style="shape-rendering: auto; display: block; background: transparent;"
+   version="1.1"
+   id="svg9"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <g
+     id="g9">
+    <rect
+       fill="#a5ce3a"
+       height="20"
+       width="20"
+       y="17"
+       x="17"
+       id="rect1">
+      <animate
+         calcMode="discrete"
+         begin="0s"
+         repeatCount="indefinite"
+         dur="1s"
+         keyTimes="0;0.125;1"
+         values="#888888;#a5ce3a;#a5ce3a"
+         attributeName="fill" />
+    </rect>
+    <rect
+       fill="#a5ce3a"
+       height="20"
+       width="20"
+       y="17"
+       x="40"
+       id="rect2">
+      <animate
+         calcMode="discrete"
+         begin="0.125s"
+         repeatCount="indefinite"
+         dur="1s"
+         keyTimes="0;0.125;1"
+         values="#888888;#a5ce3a;#a5ce3a"
+         attributeName="fill" />
+    </rect>
+    <rect
+       fill="#a5ce3a"
+       height="20"
+       width="20"
+       y="17"
+       x="63"
+       id="rect3">
+      <animate
+         calcMode="discrete"
+         begin="0.25s"
+         repeatCount="indefinite"
+         dur="1s"
+         keyTimes="0;0.125;1"
+         values="#888888;#a5ce3a;#a5ce3a"
+         attributeName="fill" />
+    </rect>
+    <rect
+       fill="#a5ce3a"
+       height="20"
+       width="20"
+       y="40"
+       x="17"
+       id="rect4">
+      <animate
+         calcMode="discrete"
+         begin="0.875s"
+         repeatCount="indefinite"
+         dur="1s"
+         keyTimes="0;0.125;1"
+         values="#888888;#a5ce3a;#a5ce3a"
+         attributeName="fill" />
+    </rect>
+    <rect
+       fill="#a5ce3a"
+       height="20"
+       width="20"
+       y="40"
+       x="63"
+       id="rect5">
+      <animate
+         calcMode="discrete"
+         begin="0.375s"
+         repeatCount="indefinite"
+         dur="1s"
+         keyTimes="0;0.125;1"
+         values="#888888;#a5ce3a;#a5ce3a"
+         attributeName="fill" />
+    </rect>
+    <rect
+       fill="#a5ce3a"
+       height="20"
+       width="20"
+       y="63"
+       x="17"
+       id="rect6">
+      <animate
+         calcMode="discrete"
+         begin="0.75s"
+         repeatCount="indefinite"
+         dur="1s"
+         keyTimes="0;0.125;1"
+         values="#888888;#a5ce3a;#a5ce3a"
+         attributeName="fill" />
+    </rect>
+    <rect
+       fill="#a5ce3a"
+       height="20"
+       width="20"
+       y="63"
+       x="40"
+       id="rect7">
+      <animate
+         calcMode="discrete"
+         begin="0.625s"
+         repeatCount="indefinite"
+         dur="1s"
+         keyTimes="0;0.125;1"
+         values="#888888;#a5ce3a;#a5ce3a"
+         attributeName="fill" />
+    </rect>
+    <rect
+       fill="#a5ce3a"
+       height="20"
+       width="20"
+       y="63"
+       x="63"
+       id="rect8">
+      <animate
+         calcMode="discrete"
+         begin="0.5s"
+         repeatCount="indefinite"
+         dur="1s"
+         keyTimes="0;0.125;1"
+         values="#888888;#a5ce3a;#a5ce3a"
+         attributeName="fill" />
+    </rect>
+    <g
+       id="g8" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.5816px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.499999"
+     x="49.159084"
+     y="48.521999"
+     id="text9"
+     transform="scale(0.81223915,1.2311645)"><tspan
+       id="tspan9"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:8.5816px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#999999;stroke-width:0.499999"
+       x="49.159084"
+       y="48.521999">LBRP</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:start;letter-spacing:-0.17561px;word-spacing:2.34878px;writing-mode:lr-tb;direction:rtl;text-orientation:sideways;text-anchor:start;fill:#000000;stroke-width:0.5"
+     x="53.486355"
+     y="54.210663"
+     id="text17"
+     transform="scale(1.1388892,0.87804851)"><tspan
+       id="tspan17"
+       style="font-size:4px;stroke-width:0.5"
+       x="53.486355"
+       y="54.210663" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:start;letter-spacing:-0.2px;word-spacing:2.675px;writing-mode:lr-tb;direction:rtl;text-orientation:sideways;text-anchor:start;fill:#000000;stroke-width:0.5"
+     x="60.130722"
+     y="50.457516"
+     id="text18"><tspan
+       id="tspan18"
+       style="font-size:4px;fill:#999999;stroke-width:0.5"
+       x="59.930721"
+       y="50.457516">236784016</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:start;letter-spacing:-0.2px;word-spacing:2.675px;writing-mode:lr-tb;direction:rtl;text-orientation:sideways;text-anchor:start;fill:#999999;stroke-width:0.5"
+     x="60.261436"
+     y="42.614376"
+     id="text19"><tspan
+       id="tspan19"
+       style="stroke-width:0.5"
+       x="60.061436"
+       y="42.614376">325618047</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:start;letter-spacing:-0.2px;word-spacing:2.675px;writing-mode:lr-tb;direction:rtl;text-orientation:sideways;text-anchor:start;fill:#999999;stroke-width:0.5"
+     x="60.130718"
+     y="46.797386"
+     id="text20"><tspan
+       id="tspan20"
+       style="stroke-width:0.5"
+       x="59.930717"
+       y="46.797386">986523401</tspan></text>
+</svg>
